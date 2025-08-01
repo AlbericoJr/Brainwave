@@ -20,7 +20,7 @@ export default function App() {
   )
 }
 
-//https://youtu.be/B91wc5dCEBA?si=f5yan3MrFRsjBTEI 2:02:00
+//https://youtu.be/B91wc5dCEBA?si=f5yan3MrFRsjBTEI 2:30:00
 
 //GitHub: https://github.com/adrianhajdin/brainwave/blob/main/src/components/Header.jsx
 
