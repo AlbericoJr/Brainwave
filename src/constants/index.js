@@ -128,7 +128,7 @@ export const roadmap = [
 ];
 
 export const collabText =
-  "Com automação inteligente e segurança de ponta, é a solução perfeita para equipes que buscam trabalhar de forma mais inteligente.";
+  "Com automação inteligente e segurança avançada, é a solução ideal para equipes que querem trabalhar com mais agilidade e confiança.";
 
 export const collabContent = [
   {
@@ -212,9 +212,9 @@ export const pricing = [
     description: "Chatbot de IA, recomendações personalizadas",
     price: "0",
     features: [
-      "Um chatbot de IA que pode entender suas dúvidas",
-      "Recomendações personalizadas com base em suas preferências",
-      "Capacidade de explorar o aplicativo e seus recursos sem nenhum custo",
+      "Interaja com um chatbot inteligente que responde às suas dúvidas com clareza.",
+      "Receba sugestões personalizadas com base nas suas interações.",
+      "Explore os recursos do app gratuitamente e sem limitações iniciais.",
     ],
   },
   {
@@ -223,9 +223,9 @@ export const pricing = [
     description: "Chatbot de IA avançado, suporte prioritário, painel de análise",
     price: "55.00",
     features: [
-      "Um chatbot de IA avançado que pode entender consultas complexas",
-      "Um painel de análise para monitorar suas conversas",
-      "Suporte prioritário para resolver problemas rapidamente",
+      "Acesse um chatbot avançado capaz de lidar com perguntas mais complexas.",
+      "Monitore suas conversas e desempenho com um painel analítico dedicado.",
+      "Conte com suporte prioritário para resolver qualquer problema rapidamente.",
     ],
   },
   {
@@ -234,9 +234,9 @@ export const pricing = [
     description: "Chatbot de IA personalizado, análises avançadas, conta dedicada",
     price: null,
     features: [
-      "Um chatbot de IA que pode entender suas dúvidas",
-      "Recomendações personalizadas com base nas suas preferências",
-      "Capacidade de explorar o aplicativo e seus recursos sem nenhum custo",
+      "Tenha um chatbot treinado e ajustado às necessidades específicas do seu negócio.",
+      "Obtenha análises completas sobre o uso e comportamento dos usuários.",
+      "Trabalhe com uma conta gerenciada, com atendimento exclusivo e soluções sob medida.",
     ],
   },
 ];
@@ -245,7 +245,7 @@ export const benefits = [
   {
     id: "0",
     title: "Pergunte qualquer coisa",
-    text: "Permite que os usuários encontrem rapidamente respostas para suas perguntas sem precisar pesquisar em várias fontes.",
+    text: "Encontre respostas instantâneas para qualquer pergunta, sem precisar perder tempo pesquisando em várias fontes.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
@@ -253,7 +253,7 @@ export const benefits = [
   {
     id: "1",
     title: "Melhore a cada dia",
-    text: "O aplicativo usa processamento de linguagem natural para entender as consultas dos usuários e fornecer respostas precisas e relevantes.",
+    text: "Com tecnologia de linguagem natural, o Brainwave entende suas perguntas e fornece respostas precisas que ajudam você a evoluir continuamente.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -262,7 +262,7 @@ export const benefits = [
   {
     id: "2",
     title: "Conecte-se em todos os lugares",
-    text: "Conecte-se com o chatbot de IA de qualquer lugar, em qualquer dispositivo, tornando-o mais acessível e conveniente.",
+    text: "Acesse o Brainwave de onde estiver, em qualquer dispositivo, praticidade e inteligência na palma da sua mão.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
@@ -270,7 +270,7 @@ export const benefits = [
   {
     id: "3",
     title: "Resposta rápida",
-    text: "Permite que os usuários encontrem rapidamente respostas para suas perguntas sem precisar pesquisar em várias fontes.",
+    text: "Obtenha respostas imediatas e confiáveis, agilizando sua rotina com a inteligência do Brainwave.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
@@ -278,16 +278,16 @@ export const benefits = [
   },
   {
     id: "4",
-    title: "Pergunte qualquer coisa",
-    text: "Permite que os usuários encontrem rapidamente respostas para suas perguntas sem precisar pesquisar em várias fontes.",
+    title: "Explore novos horizontes",
+    text: "Descubra insights e conteúdos valiosos com o apoio do Brainwave, expandindo seu conhecimento de forma contínua e dinâmica.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "5",
-    title: "Melhore a cada dia",
-    text: "O aplicativo usa processamento de linguagem natural para entender as consultas dos usuários e fornecer respostas precisas e relevantes.",
+    title: "Personalize sua experiência",
+    text: "Adapte o Brainwave às suas preferências e necessidades, criando interações mais naturais, eficientes e personalizadas.",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,

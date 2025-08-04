@@ -31,8 +31,7 @@ export const Services = () => {
             <div className="relative z-1 max-w-[17rem] ml-auto">
               <h4 className="h4 mb-4">IA mais inteligente</h4>
               <p className="body-2 mb-[3rem] text-neutral-3">
-                Brainwave desbloqueia o potencial de aplicações alimentadas por
-                IA
+              O Brainwave libera todo o potencial de aplicações impulsionadas por IA.
               </p>
               <ul className="body-2">
                 {brainwaveServices.map((item, index) => (
@@ -63,7 +62,7 @@ export const Services = () => {
 
               <div className="absolute inset-0 flex flex-col justify-end p-8 bg-gradient-to-b from-neutral-8/0 to-neutral-8/90 lg:p-15">
                 <h4 className="h4 mb-4">Edição de fotos</h4>
-                <p className="body-2 mb-[3rem] text-neutral-3">Melhore suas fotos automaticamente usando nosso aplicativo de IA&apos;s Recurso de edição de fotos. Experimente agora!</p>
+                <p className="body-2 mb-[3rem] text-neutral-3">Melhore suas fotos automaticamente com nosso recurso de edição inteligente por IA. Experimente agora!</p>
               </div>
               <PhotoChatMessage />
             </div>
@@ -72,8 +71,7 @@ export const Services = () => {
               <div className="py-12 px-4 xl:px-8">
                 <h4 className="h4 mb-4">Geração de vídeo</h4>
                 <p className="body-2 mb-[2rem] text-neutral-3">
-                O mecanismo de geração de arte em fotos e vídeos com IA mais poderoso do mundo.
-                O que você criará?
+                Libere sua criatividade com o gerador de arte em fotos e vídeos mais avançado do mundo. O que você criará hoje?
                 </p>
 
                 <ul className="flex items-center justify-between">

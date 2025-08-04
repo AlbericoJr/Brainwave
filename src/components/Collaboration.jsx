@@ -11,7 +11,7 @@ export const Collaboration = () => {
       <div className="container lg:flex">
         <div className="max-w-[25rem]">
           <h2 className="h4 mt-11 mb-4 md:mb-8">
-            Aplicativo de bate-papo com IA para colaboração perfeita
+          Chat inteligente com IA para uma colaboração mais fluida e eficiente
           </h2>
 
           <ul className="max-w-[22rem] mb-10 md:mb-14">
@@ -33,7 +33,7 @@ export const Collaboration = () => {
 
         <div className="lg:ml-auto xl:w-[38rem] mt-4">
           <p className="body-2 mb-8 text-neutral-4 md:mb-16 lg:mb-32 lg:w-[22rem] lg:mx-auto">
-            {collabText}
+            Transforme a comunicação da sua equipe com tecnologia de IA, otimizando processos e conectando pessoas com mais produtividade.
           </p>
 
           <div className="relative left-1/2 flex w-[22rem] aspect-square border border-neutral-6 rounded-full -translate-x-1/2 scale-75 md:scale-100">
