@@ -221,7 +221,7 @@ export const pricing = [
     id: "1",
     title: "Prêmio",
     description: "Chatbot de IA avançado, suporte prioritário, painel de análise",
-    price: "9.99",
+    price: "55.00",
     features: [
       "Um chatbot de IA avançado que pode entender consultas complexas",
       "Um painel de análise para monitorar suas conversas",
